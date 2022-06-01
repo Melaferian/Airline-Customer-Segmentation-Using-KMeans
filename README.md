@@ -53,7 +53,7 @@ The average value of the discount coefficients corresponding to the passengers w
 
 ## Clustering
 
-![3](https://github.com/Melaferian/Airline-Customer-Segmentation-Using-KMeans/blob/main/Hasil%20Cluster.png
+![3](https://github.com/Melaferian/Airline-Customer-Segmentation-Using-KMeans/blob/main/Hasil%20Cluster.png)
 
 ### Insight
 
